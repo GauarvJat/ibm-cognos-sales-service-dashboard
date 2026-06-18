@@ -49,13 +49,13 @@ Designed and developed Sales and Service dashboards to provide actionable insigh
 
 ## Dashboard Screenshots
 
-(Add screenshots here)
+<img width="1062" height="718" alt="image" src="https://github.com/user-attachments/assets/43d628c7-3b02-4102-99d3-9f86fd59d0a3" />
 
-## Repository Structure
+<img width="1060" height="693" alt="image" src="https://github.com/user-attachments/assets/1ebbb092-8d64-4870-93bc-7dfa0bf49748" />
 
-/docs
-/screenshots
-/dashboards
+
+<img width="1909" height="980" alt="image" src="https://github.com/user-attachments/assets/2fcddd95-8841-4e82-b44f-1e675937db86" />
+
 
 ## Author
 
